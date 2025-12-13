@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Ernest 👋
 
-<!--
-**naireXone/naireXone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on building small, practical projects using
+HTML, CSS, and JavaScript. I build interactive web projects with an emphasis on
+clean structure, clarity, and core fundamentals
 
-Here are some ideas to get you started:
+### 🔧 What I do
+- Build interactive UI components with vanilla JavaScript
+- Implement responsive layouts using modern CSS
+- Structure small to medium projects with clean file organization
+- Use Git and GitHub consistently for version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech stack
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+### 📂 Selected projects
+- To-Do App — task manager with add/remove functionality  
+- Password Generator — generates secure random passwords  
+- Simple Calculator — basic arithmetic with JavaScript logic  
+- Scroll Animation — animations triggered on scroll events  
+- Expanding Cards — interactive UI component using CSS and JS  
+
+### 📫 Contact
+- GitHub: https://github.com/naireXone
+- email: ernestdoe04@gmail.com
+- LinkedIn: https://linkedin.com/in/ernest-kobbie-doe-348a8179
