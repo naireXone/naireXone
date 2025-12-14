@@ -1,8 +1,8 @@
 ## Hi, I'm Ernest 👋
 
-I'm a software developer focused on building small, practical projects using
-HTML, CSS, and JavaScript. I build interactive web projects with an emphasis on
-clean structure, clarity, and core fundamentals
+I'm a software developer with a background in systems support,
+and software testing. I am currently focused on building small, practical projects using
+HTML, CSS, and JavaScript with an emphasis on clean structure, clarity, and core fundamentals.
 
 ### 🔧 What I do
 - Build interactive UI components with vanilla JavaScript
