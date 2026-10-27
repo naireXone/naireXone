@@ -1,6 +1,6 @@
 ## Hi, I'm Ernest 👋
 
-I'm a software developer with a background in systems support, software testing, I am currently working on my dissertation: Anti-forensic Techniques and their Countermeasures in Modern Operating Systems: A UK-Focused Systematic Literature Review, to be awarded an MSc in Cybersecurity and Digital Forensics. For my side projects, I am currently focused on building small, practical projects using HTML, CSS, JavaScript, and React Native with an emphasis on clean structure, clarity, and core fundamentals.
+A professional with a background in Computer Science and Cybersecurity and Digital forensics. Interests focus on improving cyber resilience in connected environments through anomaly/threat detection, contextual security analysis and effective response mechanisms. Experienced conducting systematic research, and analysing security threats and vulnerabilities. Also have practical experience in security testing, security monitoring, risk assessment, and technical system development. For my side projects, I am currently focused on building small, practical projects using HTML, CSS, JavaScript, and React Native with an emphasis on clean structure, clarity, and core fundamentals.
 
 ### What I do
 - Build interactive UI components with JavaScript
